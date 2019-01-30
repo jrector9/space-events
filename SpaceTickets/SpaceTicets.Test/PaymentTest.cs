@@ -9,5 +9,9 @@ namespace SpaceTicets.Test
 {
     public class PaymentTest
     {
+        public PaymentTest()
+        {
+
+        }
     }
 }

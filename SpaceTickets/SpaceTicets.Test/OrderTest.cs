@@ -9,5 +9,9 @@ namespace SpaceTicets.Test
 {
     public class OrderTest
     {
+        public OrderTest()
+        {
+
+        }
     }
 }
