@@ -5,7 +5,7 @@ using System.Linq;
 using SpaceTickets.Domain.Models;
 using Xunit;
 
-namespace SpaceTicets.Test
+namespace SpaceTickets.Test
 {
     public class UserTest
     {

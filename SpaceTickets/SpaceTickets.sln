@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTickets.Domain", "SpaceTickets.Domain\SpaceTickets.Domain.csproj", "{BFC7D3FC-F2ED-4672-B4B0-E73F9C0CE05D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceTickets.Domain", "SpaceTickets.Domain\SpaceTickets.Domain.csproj", "{BFC7D3FC-F2ED-4672-B4B0-E73F9C0CE05D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTickets.Data", "SpaceTickets.Data\SpaceTickets.Data.csproj", "{B1C7C0C9-B8CA-4C05-A2BB-C9C7EF540D0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceTickets.Data", "SpaceTickets.Data\SpaceTickets.Data.csproj", "{B1C7C0C9-B8CA-4C05-A2BB-C9C7EF540D0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTickets.Migration", "SpaceTickets.Migration\SpaceTickets.Migration.csproj", "{7E1AD5D0-6CA0-42E9-BFCB-2BD8AFD7A91D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceTickets.Migration", "SpaceTickets.Migration\SpaceTickets.Migration.csproj", "{7E1AD5D0-6CA0-42E9-BFCB-2BD8AFD7A91D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTicets.Test", "SpaceTicets.Test\SpaceTicets.Test.csproj", "{0C8B9B6A-60AA-4A9D-84B3-577601718BAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceTickets.Test", "SpaceTicets.Test\SpaceTickets.Test.csproj", "{0C8B9B6A-60AA-4A9D-84B3-577601718BAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTickets.Mvc", "SpaceTickets.Mvc\SpaceTickets.Mvc.csproj", "{E536E166-B8CB-4B96-A793-03A99CC40531}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceTickets.Mvc", "SpaceTickets.Mvc\SpaceTickets.Mvc.csproj", "{E536E166-B8CB-4B96-A793-03A99CC40531}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

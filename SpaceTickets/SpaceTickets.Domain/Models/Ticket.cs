@@ -6,8 +6,9 @@ namespace SpaceTickets.Domain.Models
 {
     public class Ticket
     {
-       public string Location { get; set; }
-        public long Price { get; set; }
+        public string Name { get; set; }
+        public Address Location { get; set; }
+        public decimal Price { get; set; }
         public string Description { get; set; }
     }
 }
