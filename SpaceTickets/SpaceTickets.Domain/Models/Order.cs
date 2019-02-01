@@ -6,6 +6,7 @@ namespace SpaceTickets.Domain.Models
 {
     public class Order
     {
-        public string Address { get; set; }
+        public Address Address { get; set; }
+        public Payment Payment { get; set; }
     }
 }
